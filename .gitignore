@@ -1,0 +1,4 @@
+*~
+models/*
+embeddings/*
+.ipynb_checkpoints/
